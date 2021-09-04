@@ -1,1 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ShuheiNishijima=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuheiNishijima&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShuheiNishijima&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShuheiNishijima&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShuheiNishijima&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShuheiNishijima&theme=dracula)
